@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^5.5.3",
-    "wampproto": "github:xconnio/wampproto-ts",
+    "wampproto": "github:muzzammilshahid/wampproto-ts#check-buffer",
     "ws": "^8.18.0"
   },
   "devDependencies": {
